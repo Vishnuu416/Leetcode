@@ -8,6 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ // -----USE TORTOISE AND HARE ALGO----
 class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode slow = head;
