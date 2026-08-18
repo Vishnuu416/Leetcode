@@ -8,6 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+//Revise this this uses bit manipulators
 class Solution {
     public int getDecimalValue(ListNode head) {
         ListNode temp=head;
